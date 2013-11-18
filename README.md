@@ -1,0 +1,1 @@
+Implement javascript minimalist approach in Node.js
