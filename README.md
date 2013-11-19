@@ -3,11 +3,12 @@
 A simple example for javascript object-oriented programming.
 
 Include:
- - public / prviate variables or functions
+ - public / private variables or functions
  - static variables or functions
- - inheritance (not multiple)
+ - inheritance (not multiple, no interface)
 
 Run:
+
     node app.js
 
 Inheritance:
