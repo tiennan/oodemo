@@ -1,6 +1,6 @@
 
 var Developer = {
-    createNew: function(name){
+    createNew: function(name){ // extends people
         var developer = require('./people.js').createNew(name);
 
         // add public function

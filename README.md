@@ -7,5 +7,12 @@ Include:
  - static variables or functions
  - inheritance (not multiple)
 
+Run:
+node app.js
+
+people
+  - developer
+    - frontend
+
 ref:
 http://www.ruanyifeng.com/blog/2012/07/three_ways_to_define_a_javascript_class.html
