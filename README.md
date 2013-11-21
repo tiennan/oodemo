@@ -17,4 +17,5 @@ Inheritance:
       - frontend
 
 ref:
-http://www.ruanyifeng.com/blog/2012/07/three_ways_to_define_a_javascript_class.html
+ - http://www.gabordemooij.com/articles/jsoop.html
+ - http://www.ruanyifeng.com/blog/2012/07/three_ways_to_define_a_javascript_class.html
